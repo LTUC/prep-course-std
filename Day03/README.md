@@ -1,4 +1,4 @@
-# Class03
+# Day03
 
 ## Outcomes:
 Students will be able to:

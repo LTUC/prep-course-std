@@ -1,4 +1,4 @@
-# Class 19
+# Day 19
 
 ## Outcomes
 Students will learn :

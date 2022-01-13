@@ -1,4 +1,4 @@
-# Class 07
+# Day 07
 
 ## Outcomes
 

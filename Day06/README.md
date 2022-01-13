@@ -1,4 +1,4 @@
-# Class06
+# Day06
 
 ## Outcomes:
 Students will be able to:

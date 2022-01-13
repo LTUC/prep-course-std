@@ -1,4 +1,4 @@
-# Class 16
+# Day 16
 
 ## Outcomes
 
@@ -18,7 +18,7 @@ Students will learn :
 
 ### Keywords to Search for: 
 * JSX
-* Function and Class Components in React
+* Function and Day Components in React
 * Rendering a Component
 * Extracting Components
 * Virtual DOM

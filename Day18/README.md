@@ -1,4 +1,4 @@
-# Class 18
+# Day 18
 
 ## Outcomes
 

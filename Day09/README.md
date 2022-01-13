@@ -1,4 +1,4 @@
-# Class 09
+# Day 09
 
 ## Outcomes
 

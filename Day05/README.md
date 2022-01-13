@@ -1,4 +1,4 @@
-# Class05
+# Day05
 
 ## Outcomes:
 Students will be able to:

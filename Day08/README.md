@@ -1,4 +1,4 @@
-# Class 08
+# Day 08
 
 ## Outcomes
 

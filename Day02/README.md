@@ -1,4 +1,4 @@
-# Class02
+# Day02
 
 ## Outcomes
 ### Students will learn :

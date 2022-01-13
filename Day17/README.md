@@ -1,4 +1,4 @@
-# Class 17
+# Day 17
 
 ## Outcomes
 

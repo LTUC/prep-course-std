@@ -1,4 +1,4 @@
-# Class10
+# Day10
 
 
 ## Outcomes:
