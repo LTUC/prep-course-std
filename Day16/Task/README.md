@@ -11,8 +11,33 @@ For today and tomorrow's tasks, you will build a Travel Destination web applicat
 You are building a Travel Destination application where you can see a list of the most visited places around the world.
 
 ### **Requirements**
+- Create new branch called class-16 then start your work by using this command **git checkout -b class16**
+
+- You structure tourapp/src to be as below - it just related to src folder the rest folder should not be Edited .
+
+```
+├── App.css
+├── App.js
+├── components
+│   ├── footer
+│   │   ├── Footer.css
+│   │   └── Footer.js
+│   ├── header
+│   │   ├── Header.css
+│   │   └── Header.js
+│   ├── home
+│   │   ├── Home.css
+│   │   └── Home.js
+│   └── tours
+│       ├── Tours.css
+│       ├── Tours.js
+├── data
+│   └── db.json
+├── index.css
+└── index.js
+```
 - Use this [Cheatsheet](https://drive.google.com/file/d/14VoN5f9mnLZ43t5kayttvbUWCYecxyLd/view) to create your project.
-- Create a file in your project at location src/data.json and add the data below in your data.json file.
+- Create a file in your project at location src/data/db.json and add the data below in your data.json file.
 
 ```JSON
 [
