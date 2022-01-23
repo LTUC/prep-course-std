@@ -18,7 +18,7 @@ inside your local project:
 2. copy the content of this file [content here](https://github.com/LTUC/prep-course-std/blob/master/Day06/ProblemSolving/Challenge01/package.json) into "package.json" file (the file that you created).
 3. in the terminal, run this command `npm install` (to install the packages inside the "package.json")
 4. create folder named "Challenge06"
-5. create new files "Challenge06.js" and "Challenge06.test.js" inside "Challenge06"
+5. create new files "Challenge06.js" and "Challenge06.test.js" inside "Challenge06" folder.
     - copy this content [content here](https://github.com/LTUC/prep-course-std/blob/master/Day06/ProblemSolving/Challenge01/Challenge06.js) into "Challenge06.js"
 	- copy this content [content here](https://github.com/LTUC/prep-course-std/blob/master/Day06/ProblemSolving/Challenge01/Challenge06.test.js) into "Challenge06.test.js"
 6. solve the problems inside "Challenge06.js"
