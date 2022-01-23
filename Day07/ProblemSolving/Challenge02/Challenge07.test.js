@@ -1,9 +1,8 @@
 'use strict';
 
-const { objLat, cvFormatter, applicationsStatics, classesAvg } = require('./Challenge07');
+const { objLat, cvFormatter, applicationsStatics, classesAvg } = require('../Challenge07');
 
-const first_Cv_Sample = [
-    {
+const first_Cv_Sample = [{
         firstName: "Jason",
         lastName: "James",
         yearsOfExperience: 20,
@@ -35,8 +34,7 @@ const first_Cv_Sample = [
     }
 ]
 
-const second_Cv_Sample = [
-    {
+const second_Cv_Sample = [{
         firstName: "Adele",
         lastName: "Douglas",
         yearsOfExperience: 7,
@@ -71,12 +69,10 @@ const second_Cv_Sample = [
 const data = {
     SchoolName: "Al Farouk",
     Capacity: 1000,
-    grades: [
-        {
+    grades: [{
             grade: "First",
             numberOFClasses: 3,
-            classes: [
-                {
+            classes: [{
                     avg: 0,
                     classNumber: "01",
                     classScores: [
@@ -102,8 +98,7 @@ const data = {
         {
             grade: "Second",
             numberOFClasses: 2,
-            classes: [
-                {
+            classes: [{
                     avg: 0,
                     classNumber: "01",
                     classScores: [
@@ -122,8 +117,7 @@ const data = {
         {
             grade: "Third",
             numberOFClasses: 2,
-            classes: [
-                {
+            classes: [{
                     avg: 0,
                     classNumber: "01",
                     classScores: [
@@ -142,8 +136,7 @@ const data = {
         {
             grade: "Forth",
             numberOFClasses: 4,
-            classes: [
-                {
+            classes: [{
                     avg: 0,
                     classNumber: "01",
                     classScores: [
@@ -207,8 +200,7 @@ describe.skip('Challenge07', () => {
 
 describe.skip('Challenge07', () => {
     test('CV-Formatter', () => {
-        let received = [
-            {
+        let received = [{
                 fullName: "Jason James",
                 tech: "JS"
             },
@@ -226,8 +218,7 @@ describe.skip('Challenge07', () => {
             }
         ]
 
-        let received2 = [
-            {
+        let received2 = [{
                 fullName: "Adele Douglas",
                 tech: ".Net"
             },
@@ -282,12 +273,10 @@ describe.skip('Challenge07', () => {
         let received = {
             SchoolName: "Al Farouk",
             Capacity: 1000,
-            grades: [
-                {
+            grades: [{
                     grade: "First",
                     numberOFClasses: 3,
-                    classes: [
-                        {
+                    classes: [{
                             avg: 60,
                             classNumber: "01",
                             classScores: [
@@ -313,8 +302,7 @@ describe.skip('Challenge07', () => {
                 {
                     grade: "Second",
                     numberOFClasses: 2,
-                    classes: [
-                        {
+                    classes: [{
                             avg: 57,
                             classNumber: "01",
                             classScores: [
@@ -333,8 +321,7 @@ describe.skip('Challenge07', () => {
                 {
                     grade: "Third",
                     numberOFClasses: 2,
-                    classes: [
-                        {
+                    classes: [{
                             avg: 45,
                             classNumber: "01",
                             classScores: [
@@ -353,8 +340,7 @@ describe.skip('Challenge07', () => {
                 {
                     grade: "Forth",
                     numberOFClasses: 4,
-                    classes: [
-                        {
+                    classes: [{
                             avg: 64,
                             classNumber: "01",
                             classScores: [

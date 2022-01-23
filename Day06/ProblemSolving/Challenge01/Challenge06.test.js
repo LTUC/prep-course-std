@@ -16,8 +16,8 @@ describe.skip('Challenge01', () => {
     })
 
     test('reverse_Array', () => {
-        expect(reverseArray([1,2,3,4,5])).toStrictEqual([5,4,3,2,1]);
-        expect(reverseArray(['C#', 'JS', 'Ruby','Python' ])).toStrictEqual(['Python','Ruby','JS','C#']);
+        expect(reverseArray([1, 2, 3, 4, 5])).toStrictEqual([5, 4, 3, 2, 1]);
+        expect(reverseArray(['C#', 'JS', 'Ruby', 'Python'])).toStrictEqual(['Python', 'Ruby', 'JS', 'C#']);
         expect(reverseArray(['88', 10, 'course', 71])).toStrictEqual([71, 'course', 10, '88']);
     })
 })
