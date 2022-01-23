@@ -1,6 +1,6 @@
 'use strict';
 
-const { objLat, cvFormatter, applicationsStatics, classesAvg } = require('../Challenge07');
+const { objLat, cvFormatter, applicationsStatics, classesAvg } = require('./Challenge07');
 
 const first_Cv_Sample = [{
         firstName: "Jason",
