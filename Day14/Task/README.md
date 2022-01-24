@@ -19,5 +19,11 @@
 * [SQL Practice](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
 * [SQL sheetcheat](http://www.cheat-sheets.org/sites/sql.su/)
 
-## Submission Instructions
-* Create a new pull request and submit your work ( PR )
+
+## Submission Instructions:
+- When your work is complete and ready for submission, push to the `Task14` branch.
+- Create a pull request.
+- Submit the pull request link.
+- Merge `Task14` with the main branch.
+- What observations or questions do you have about what you’ve learned so far?
+- How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?

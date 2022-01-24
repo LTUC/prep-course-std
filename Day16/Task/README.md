@@ -11,7 +11,10 @@ For today and tomorrow's tasks, you will build a Travel Destination web applicat
 You are building a Travel Destination application where you can see a list of the most visited places around the world.
 
 ### **Requirements**
-- Create new branch called class-16 then start your work by using this command **git checkout -b class16**
+**Set up your Github Repository:**
+   - Create new repo called `Travel-Destination`.
+   - Checkout a new branch called `class-16` for today's task.
+   - Open it in VS code.
 
 - You structure tourapp/src to be as below - it just related to src folder the rest folder should not be Edited .
 
@@ -117,3 +120,14 @@ You are building a Travel Destination application where you can see a list of th
     - Map the data that you have from the JSON file.
     - Each time you map the data it returns and renders a `<div>`, displaying data for every tour separated by a line manner.
     - Your `<div>` should only contain the name and an image for each tour.
+
+
+
+
+## Submission Instructions:
+- When your work is complete and ready for submission, push to the `class-16` branch.
+- Create a pull request.
+- Submit the pull request link.
+- Merge `class-16` with the main branch.
+- What observations or questions do you have about what you’ve learned so far?
+- How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?

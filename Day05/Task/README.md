@@ -8,7 +8,7 @@ You are building a ToDo List Web Application, where the Users can display their 
 
 ## Requirements:
 
-1. **Set up your Github Repositry:**
+1. **Set up your Github Repository:**
    - Continue working on the same `todo-project` repo.
    - Checkout a new branch called `todo-js` for today's task.
    - Open it in VS code.
@@ -29,7 +29,8 @@ You are building a ToDo List Web Application, where the Users can display their 
 ## Submission Instructions:
 - When your work is complete and ready for submission, push to the `todo-js` branch.
 - Create a pull request.
-- Submit the link.
-- merge `todo-js` with the main branch.
+- Deploy to the Github pages.
+- Submit the pull request and deployed version (Live URL) links.
+- Merge `todo-js` with the main branch.
 - What observations or questions do you have about what you’ve learned so far?
 - How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?

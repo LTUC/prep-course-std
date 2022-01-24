@@ -52,3 +52,13 @@ Be creative and make your page professional.
 ### **Stretch goal**
 
 Separate the employees cards by their department where you will have a separate section for each department.
+
+
+## Submission Instructions:
+- When your work is complete and ready for submission, push to the `events` branch.
+- Create a pull request.
+- Deploy to the Github pages.
+- Submit the pull request and deployed version (Live URL) links.
+- Merge `events` with the main branch.
+- What observations or questions do you have about what you’ve learned so far?
+- How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?

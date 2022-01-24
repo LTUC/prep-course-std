@@ -49,5 +49,10 @@ Movies-Library
 * [Dotenv](https://www.npmjs.com/package/dotenv)
 * [axios](https://www.npmjs.com/package/axios)
 
-## Submission Instructions
-* Create a new pull request on GitHub and submit the (PR) link
+## Submission Instructions:
+- When your work is complete and ready for submission, push to the `Task12` branch.
+- Create a pull request.
+- Submit the pull request link.
+- Merge `Task12` with the main branch.
+- What observations or questions do you have about what you’ve learned so far?
+- How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?

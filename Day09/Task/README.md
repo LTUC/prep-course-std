@@ -41,3 +41,13 @@ Create a new js file called accounting.js to use it in this page.
 |Development|
 |Finance|
 |Total|Total number of employees|Total salary for all departments|Average salary for all departments|
+
+
+## Submission Instructions:
+- When your work is complete and ready for submission, push to the `localStorage` branch.
+- Create a pull request.
+- Deploy to the Github pages.
+- Submit the pull request and deployed version (Live URL) links.
+- Merge `localStorage` with the main branch.
+- What observations or questions do you have about what you’ve learned so far?
+- How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
