@@ -3,9 +3,12 @@
 // -------------------------------------------------------------------------------------------------------
 // Challenge 01
 
-// Important note:
-
+// Important:
 // To solve these challenges you have use (for in ,for of) or (Object.keys ,Object.value, Object.entries )
+
+// Resources:
+// for in : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
+// for of : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
 
 // You given an object that contain name
 // and age of some customers as below :
