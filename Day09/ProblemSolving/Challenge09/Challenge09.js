@@ -1,6 +1,10 @@
 'use strict';
 
-// Important Note; Kindly use forEach loop instead of for in all of your solutions
+// Important Note:
+// Kindly use forEach loop instead of for in all of your solutions
+
+// Resource:
+// forEach: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
 
 // 1) ---------------------
 // 
