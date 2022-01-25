@@ -110,7 +110,7 @@ const getInfo = (arr) => {
 // Output: 
 // [
 //   {
-//     studentName: 'Kalé',
+//     Student: 'Kalé',
 //     course: 'Python'
 //   },
 //   ...
