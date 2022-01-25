@@ -251,7 +251,7 @@ describe('Challenge07', () => {
             dotNet_Devs: 1,
             java_Devs: 1,
             totalApplicants: 5,
-            rejectedApplicants: 2,
+            rejectedApplicants: 1,
         }
 
         let received2 = {
