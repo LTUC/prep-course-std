@@ -16,7 +16,7 @@ You are building a ToDo List Web Application, where the users can display their 
 2. **Continue adding functionality to your project**:
    - As a user, I would like to answer more questions, so you should add new three (Yes/No) questions.
    - If the input was empty consider the answer is "invalid" string.
-   - Consider putting all the answers into an array.
+   - Consider putting all of the user's answers into an array.
    - Traverse the array and print the items on the console.
    - Confirm that your code is following the single responsibility rule. Each function should only do one thing.
    - All functions and variables should have a meaningful name (use camelCase).
