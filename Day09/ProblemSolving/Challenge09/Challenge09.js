@@ -45,25 +45,25 @@ const roundDecimals = (arr) => {
 //         name: "Robert",
 //         section: "Transport",
 //         workHours: 8,
-//         salaries: "3000$"
+//         salary: "3000$"
 //     },
 //     {
 //         name: "Richard",
 //         section: "HR",
 //         workHours: 6,
-//         salaries: "4000$"
+//         salary: "4000$"
 //     },
 //     {
 //         name: "Christopher",
 //         section: "Production",
-//         workHours: 10
-//         salaries: "4500$"
+//         workHours: 10,
+//         salary: "4500$"
 //     },
 //     {
 //         name: "Andrew",
 //         section: "HouseKeeping",
 //         workHours: 9,
-//         salaries: "3200$"
+//         salary: "3200$"
 //     }
 // ]
 // 
@@ -74,25 +74,25 @@ const roundDecimals = (arr) => {
 //         name: "Robert",
 //         section: "Transport",
 //         workHours: 8,
-//         salaries: "3050$"
+//         salary: "3050$"
 //     },
 //     {
 //         name: "Richard",
 //         section: "HR",
 //         workHours: 6,
-//         salaries: "4050$"
+//         salary: "4050$"
 //     },
 //     {
 //         name: "Christopher",
 //         section: "Production",
 //         workHours: 10
-//         salaries: "4600$"
+//         salary: "4600$"
 //     },
 //     {
 //         name: "Andrew",
 //         section: "HouseKeeping",
 //         workHours: 9,
-//         salaries: "3300$"
+//         salary: "3300$"
 //     }
 // ]
 //
