@@ -15,8 +15,12 @@ Students will be able to:
 * [An Introduction to REST APIs](https://www.easeout.co/blog/2021-11-09-an-introduction-to-rest-apis/)
 * [Axios Doc](https://www.npmjs.com/package/axios)
 
+## Problem solving resources
+* [Filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+
 ### Keywords to Search for:
 * Async functions in Javascript
 * Promises
 * RESTful API
 * Axios
+* JS Array Filter

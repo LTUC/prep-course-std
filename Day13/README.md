@@ -18,8 +18,12 @@ Students will be able to:
 * [What is CRUD](https://youtu.be/iNkspbIfcic)
 * [REST vs CRUD](https://www.logicmonitor.com/blog/rest-vs-crud)
 
+## Problem solving resources
+* [Reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
+
 ### Keywords to search for:
 * Databases
 * SQL vs NoSQL
 * CRUD
 * Rest
+* JS Array Reduce

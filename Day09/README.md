@@ -11,7 +11,11 @@ Students will learn :
 * [How to use localstorage](https://www.section.io/engineering-education/how-to-use-localstorage-with-javascript/)
 * [JSON (JavaScript Object Notation)](https://www.w3schools.com/js/js_json_intro.asp)
 
+## Problem solving resources
+* [ForEach loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
 ### Keywords to Search for: 
 * local storage.
 * JSON.
 * DOM manipulation.
+* JS forEach
