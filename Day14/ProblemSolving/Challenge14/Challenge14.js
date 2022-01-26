@@ -4,10 +4,12 @@
 // split: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
 // slice: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
 // splice: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
+// indexOf: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
+// lastIndexOf: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/lastIndexOf
 
 // 1) ---------------------
 // 
-// Using the slice and indexOf methods, return the last word in a string
+// Using the slice and indexOf/lastIndexOf methods, return the last word in a string
 //
 // Note: consider that the string may have one word but never empty
 //

@@ -4,7 +4,7 @@
 // Challenge 01
 
 // Important:
-// To solve these challenges you have use (for in ,for of) or (Object.keys ,Object.value, Object.entries )
+// To solve these challenges you have use (for in ,for of) or (Object.keys ,Object.values, Object.entries )
 
 // Resources:
 // for in : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in

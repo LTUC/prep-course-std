@@ -16,7 +16,11 @@ Student will be able to:
 * [What is NodeJS](https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/)
 * [What is ExpressJS](https://www.freecodecamp.org/news/express-explained-with-examples-installation-routing-middleware-and-more/)
 
+## Problem solving resources
+* [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+
 ### Keywords to Search for: 
 * WRRC (Web Request Response Cycle)
 * Node JS
 * Express JS
+* JS Array Map
