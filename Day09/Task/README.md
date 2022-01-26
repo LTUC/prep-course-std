@@ -34,7 +34,7 @@ Create a new js file called accounting.js to use it in this page.
 
 2. Add a table footer which will have the total number of employees, the average salary for all departments and the total salary for all departments, as shown below.
 
-|Department|\# of employees|Total Salary|Average|
+|Department| # of employees|Total Salary|Average|
 |---|---|---|---|--|
 |Administration|
 |Marketing|
