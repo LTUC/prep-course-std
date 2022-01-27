@@ -1,4 +1,4 @@
-const { square, fullName, gradesAvg, studentsResult } = require('../Challenge/Challenge11');
+const { square, fullName, gradesAvg, studentsResult } = require('./Challenge11');
 
 var students = [
     {
@@ -44,7 +44,7 @@ var example =
 
 var output = ['Adam Anderson', 'Ben Zeller', 'Peter Mccord']
 
-describe.skip('Challenge 11', () => {
+describe('Challenge 11', () => {
     test('this function calculate the square for the array indexes', () => {
         var arr = [5, 9, 2, 10, 11, 6]
         expect(square(arr)).toStrictEqual([25, 81, 4, 100, 121, 36])

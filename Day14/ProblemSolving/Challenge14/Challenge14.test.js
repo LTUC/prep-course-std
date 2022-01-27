@@ -1,6 +1,6 @@
-const { LastWord, LastWord_2, replaceWords, arrToStr, letterCounter } = require('../Challenge/Challenge14');
+const { LastWord, LastWord_2, replaceWords, arrToStr, letterCounter } = require('./Challenge14');
 
-describe.skip('Challenge14-01', () => {
+describe('Challenge14-01', () => {
     test('LastWord', () => {
 
         let test1 = "I did my waiting 12 years of it in Azkaban";
@@ -17,7 +17,7 @@ describe.skip('Challenge14-01', () => {
     })
 });
 
-describe.skip('Challenge14-02', () => {
+describe('Challenge14-02', () => {
     test('LastWord_2', () => {
 
         let test1 = "I did my waiting 12 years of it in Azkaban";
@@ -33,7 +33,7 @@ describe.skip('Challenge14-02', () => {
     })
 })
 
-describe.skip('Challenge14-03', () => {
+describe('Challenge14-03', () => {
     test('replace_The_Words', () => {
 
         let test1 = "I thought you had a plan";
@@ -52,7 +52,7 @@ describe.skip('Challenge14-03', () => {
 })
 
 
-describe.skip('Challenge14-04', () => {
+describe('Challenge14-04', () => {
     test('array_To_String', () => {
 
         let test1 = ["move", "it", "away", "from", "the", "street"];
@@ -67,7 +67,7 @@ describe.skip('Challenge14-04', () => {
     })
 })
 
-describe.skip('Challenge14-05', () => {
+describe('Challenge14-05', () => {
     test('letter_Counter', () => {
 
         let test1 = "aaaa bbb sdf"; 

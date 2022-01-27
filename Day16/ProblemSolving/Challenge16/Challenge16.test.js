@@ -1,6 +1,6 @@
-const { reverseString, detectFace, eveCharacter, chickenGradients } = require('../Challenge/Challenge16');
+const { reverseString, detectFace, eveCharacter, chickenGradients } = require('./Challenge16');
 
-describe.skip('Challenge16-01', () => {
+describe('Challenge16-01', () => {
     test('Reverse-String', () => {
         let inputString = "Bard's"
 
@@ -10,7 +10,7 @@ describe.skip('Challenge16-01', () => {
 })
 
 
-describe.skip('Challenge16-02', () => {
+describe('Challenge16-02', () => {
     test('Detect face', () => {
         let inputString = ["hello ^_^ ", "Hi ^_^", "What's up ^_-", "lol"]
         expect(detectFace(inputString)).toStrictEqual(["hello ^_^ ", "Hi ^_^"]);
@@ -18,7 +18,7 @@ describe.skip('Challenge16-02', () => {
     })
 })
 
-describe.skip('Challenge16-03', () => {
+describe('Challenge16-03', () => {
     test('Even characters', () => {
         let input = "coding";
         let output = "cdn"
@@ -27,7 +27,7 @@ describe.skip('Challenge16-03', () => {
     })
 })
 
-describe.skip('Challenge16-04', () => {
+describe('Challenge16-04', () => {
     test('Chicken Gradients', () => {
         let input = [["mushroom", "grilled chicken", "sauce"], ["Bread", "Potato", "baked chicken"], ["fried potato", "garlic sauce", "fried chicken"]];;
         let output = [["grilled chicken"], ["baked chicken"], ["fried chicken"]]
