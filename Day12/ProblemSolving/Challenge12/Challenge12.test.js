@@ -1,6 +1,6 @@
-const { oddFiltration, cvsFiltration, vowelsFiltration, skillComparison } = require('../Challenge/Challenge12');
+const { oddFiltration, cvsFiltration, vowelsFiltration, skillComparison } = require('./Challenge12');
 
-describe.skip('Challenge12-01', () => {
+describe('Challenge12-01', () => {
     test('Get_odd_numbers', () => {
         let list1 = [20, 54, 89, 41, 2, 31, 111, 15, 0, 31, 200];
         let list2 = [25, 47, 8, 95, 2, 3, 55, 41];
@@ -16,7 +16,7 @@ describe.skip('Challenge12-01', () => {
     })
 });
 
-describe.skip('Challenge12-02', () => {
+describe('Challenge12-02', () => {
     test('cvsFiltration', () => {
         let cvs1 = [
             {
@@ -85,7 +85,7 @@ describe.skip('Challenge12-02', () => {
     })
 })
 
-describe.skip('Challenge12-03', () => {
+describe('Challenge12-03', () => {
     test('words_without_vowels', () => {
 
         expect(vowelsFiltration(['car', 'spy', 'dry'])).toEqual(['spy', 'dry']);
@@ -95,7 +95,7 @@ describe.skip('Challenge12-03', () => {
     })
 })
 
-describe.skip('Challenge12-04', () => {
+describe('Challenge12-04', () => {
     test('employee_skill_comparison', () => {
         let em1 = ["C", "C#", "Java", "Angular", "PHP"];
         let em2 = ["C#", ".Net", "JavaScript", "React", "Angular"];
