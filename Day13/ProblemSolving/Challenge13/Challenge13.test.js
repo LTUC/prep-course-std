@@ -1,7 +1,7 @@
 const { objectCounter, stringReverse, statistics, cleanData } = require('./Challenge13');
 
 describe('Challenge13-01', () => {
-    test('object_Counter', () => {
+    test('Object-Counter', () => {
         var voters = [
             {
                 voter_Name: "Adam Scott",
@@ -41,10 +41,10 @@ describe('Challenge13-01', () => {
 });
 
 describe('Challenge13-02', () => {
-    test('string_Reverse', () => {
+    test('String-Reverse', () => {
 
-        let test1 = 'you shall not pass.';
-        let res1 = 'pass not shall you.';
+        let test1 = 'you shall not pass';
+        let res1 = 'pass not shall you';
 
         let test2 = 'I am your father';
         let res2 = 'father your am I';
@@ -73,7 +73,7 @@ describe('Challenge13-03', () => {
             },
             {
                 voter_Name: "Junior Maxwell",
-                votes_To: "Bailey ",
+                votes_To: "Bailey",
             },
             {
                 voter_Name: "Junior Maxwell",
@@ -98,7 +98,7 @@ describe('Challenge13-03', () => {
             },
             {
                 voter_Name: "Junior Maxwell",
-                votes_To: "Chad ",
+                votes_To: "Chad",
             },
             {
                 voter_Name: "Junior Maxwell",
@@ -113,49 +113,6 @@ describe('Challenge13-03', () => {
 
         expect(statistics(voters)).toEqual(res);
         expect(statistics(voters2)).toEqual(res2);
-
-    })
-})
-
-describe('Challenge13-04', () => {
-    test('Get-Clean-Data', () => {
-        let data = {
-            name: {
-                firstName: "Gordon",
-                lastName: "Ramsay"
-            },
-            favFood: "Salmon",
-            age: null,
-            phone: "5485188"
-        }
-
-
-        let res = {
-            firstName: "Gordon",
-            lastName: "Ramsay",
-            favFood: "Salmon",
-            phone: "5485188"
-        }
-
-        let data2 = {
-            name: {
-                firstName: "Sam",
-                lastName: "Fisher"
-            },
-            favFood: null,
-            age: 33,
-            phone: null
-        }
-
-
-        let res2 = {
-            firstName: "Sam",
-            lastName: "Fisher",
-            age: 33
-        }
-
-        expect(cleanData(data)).toEqual(res);
-        expect(cleanData(data2)).toEqual(res2);
 
     })
 })
