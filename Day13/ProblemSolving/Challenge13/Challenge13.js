@@ -39,6 +39,7 @@
 
 const objectCounter = (obj) => {
     // write your code here
+
 }
 
 // 2) ---------------------
@@ -46,12 +47,17 @@ const objectCounter = (obj) => {
 // Given a string input as an argument reverse it using reduce method.
 //
 //  EX:
-// 'you shall not pass.' ==> 'pass not shall you.'
+// 'you shall not pass' ==> 'pass not shall you'
+//
+// Hint:
+// since you need to reverse words, you may get some use of the methods
+// you learnt before to split the string to words
 //
 // ------------------------
 
 const stringReverse = (str) => {
     // write your code here
+
 }
 
 // 3) ---------------------
@@ -75,7 +81,7 @@ const stringReverse = (str) => {
 //     },
 //     {
 //         voter_Name: "Junior Maxwell",
-//         votes_To: "Bailey ",
+//         votes_To: "Bailey",
 //     },
 //     {
 //         voter_Name: "Junior Maxwell",
@@ -96,36 +102,7 @@ const statistics = (obj) => {
     // write your code here
 }
 
-// 4) ---------------------
-// 
-// In a company the front-end developer is requesting the data from the backend to be cleaner and in a certain shape,
-// help the backend developer by writing a function that gets rid of bad data, 
-// and move all properties to the top level as in the example.
-//
-// Ex:
-// var data = {
-//     name: {
-//         firstName: "Gordon",
-//         lastName: "Ramsay"
-//     },
-//     favFood: "Salmon",
-//     age: null,
-//     phone: "5485188"
-// }
-//
-//     ===>
-//
-// var data = {
-//     firstName: "Gordon",
-//     lastName: "Ramsay",
-//     favFood: "Salmon",
-//     phone: "5485188"
-// }
-// ------------------------
 
-const cleanData = (obj) => {
-    // write your code here
-}
 
-module.exports = { objectCounter, stringReverse, statistics, cleanData };
+module.exports = { objectCounter, stringReverse, statistics };
 
