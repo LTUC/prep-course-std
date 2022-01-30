@@ -103,7 +103,8 @@ const employeesBonus = (arr) => {
 }
 
 // 4) ---------------------
-// 
+// Optional:
+//
 // Harry wants to buy a new mouse and keyboard for his new setup
 // He wants to choose one mouse and one keyboard from the list of prices and take the most expensive combination
 // but his budget is limited, help him by finding the most expensive *price* for a combination to buy with his budget

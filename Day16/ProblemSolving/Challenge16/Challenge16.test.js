@@ -5,7 +5,7 @@ describe('Challenge16-01', () => {
         let inputString = "Bard's"
 
         expect(reverseString(inputString)).toStrictEqual("s'draB");
-        expect(reverseString(inputString).charAt(0)).toStrictEqual("a");
+        expect(reverseString(inputString).charAt(0)).toStrictEqual("s");
     })
 })
 
