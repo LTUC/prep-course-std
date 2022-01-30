@@ -106,7 +106,7 @@ describe('Challenge09', () => {
 
 })
 
-describe('Challenge09', () => {
+describe.skip('Challenge09', () => {
     test('Most-Expensive', () => {
         expect(mostExpensive(200, [35, 15, 75, 180, 150, 50], [5, 150, 35, 120, 75, 50, 100])).toStrictEqual(200);
         expect(mostExpensive(150, [35, 15, 75], [5, 150, 100])).toStrictEqual(135);

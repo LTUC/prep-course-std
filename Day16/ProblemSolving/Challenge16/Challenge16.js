@@ -49,7 +49,7 @@ const eveCharacter = (str) => {
 
 
 /*-------------------------------------------------------------------------------------------------------
-Challenge 04
+Optional: Challenge 04
 
 Let use consider you are hired as software developer in tech company and you are assigned to work in restaurant web application project .
 
@@ -57,7 +57,11 @@ And you assigned to write function to return only gradients that contain chicken
 
 Example of the array that you will returned the chicken gradients from :-
 
-[["mushroom","grilled chicken","sauce"],["Bread","Potato","baked chicken"],["fried potato","garlic sauce","fried chicken"]]
+Input:
+[["mushroom", "grilled chicken", "sauce"], ["Bread", "Potato", "baked chicken"], ["fried potato", "garlic sauce", "fried chicken"]];
+
+Output:
+[["grilled chicken"], ["baked chicken"], ["fried chicken"]];
 
 -------------------------------------------------------------------------------------------------------*/
 
