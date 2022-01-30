@@ -15,7 +15,7 @@ While solving these exercises, you will run some tests to confirm your solution,
 Inside your local project:
 
 1. Create a file named "package.json"
-2. Copy the content of this file [content here](https://github.com/LTUC/prep-course-std/blob/master/Day06/ProblemSolving/Challenge01/package.json) into "package.json" file (the file that you created).
+2. Copy the content of this file [content here](https://github.com/LTUC/prep-course-std/blob/master/Day06/ProblemSolving/Challenge06/package.json) into "package.json" file (the file that you created).
 3. In the terminal, run this command `npm install` (to install the packages inside the "package.json")
 4. Create folder named "Challenge06"
 5. Create new files "Challenge06.js" and "Challenge06.test.js" inside "Challenge06" folder.
