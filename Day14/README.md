@@ -19,6 +19,7 @@ Students will be able to:
 * [splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
 * [indexOf](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
 * [lastIndexOf](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/lastIndexOf)
+* [join](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
 
 ### Keywords to search for:
 * HTTP Status Codes
@@ -28,3 +29,4 @@ Students will be able to:
 * JS splice
 * JS indexOf
 * JS lastIndexOf
+* JS Array join
