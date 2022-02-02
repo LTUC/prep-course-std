@@ -71,7 +71,7 @@ const cvsFiltration = (arr) => {
 
 // 3) ---------------------
 //
-// Given an array of words filter the names that contains one of the vowels (a, e, i, o, u)
+// Given an array of words filter out the words that contains one of the vowels (a, e, i, o, u)
 
 // EX:
 // ['car', 'boy', 'spy', 'building', 'why', 'dry' ] ==> ['spy', 'why', 'dry']
