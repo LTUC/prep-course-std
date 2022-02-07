@@ -1,8 +1,5 @@
 "use strict";
 
-// -------------------------------------------------------------------------------------------------------
-// Challenge 01
-
 // Important:
 // To solve these challenges you have use (for in ,for of) or (Object.keys ,Object.values, Object.entries )
 
@@ -10,33 +7,37 @@
 // for in : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
 // for of : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
 
-// You given an object that contain name
-// and age of some customers as below :
+// -------------------------------------------------------------------------------------------------------
+// Challenge 01:
+// Required:
 
+// You are given an object that contains name and age of some customers
+// Write a function that returns an array of strings that follow the below structure
+//
+// the string format is "Customer Name :*** *** , Age :**"
+
+// Input:
 // {
 //     "Romio Joliat": 35,
 //     "Mario Ristrova": 39,
 //     "Sofia firnando": 50,
 // }
-
-// You have to return an array of strings that follow the below syntax
 //
-// the string format is "Customer Name :*** *** , Age :**"
-// ['Customer Name :Romio Joliat , Age :35', 'Customer Name :Mario Ristrova , Age :39', ... ]
-
-// -------------------------------------------------------------------------------------------------------
+// Output:
+// ["Customer Name :Romio Joliat , Age :35", "Customer Name :Mario Ristrova , Age :39", ... ]
 
 const customerAndAge = (obj) => {
   // write your code here
 };
+// -------------------------------------------------------------------------------------------------------
 
 // -------------------------------------------------------------------------------------------------------
 // Challenge 02
-
-// Write a function called getRecipeKey that take recipe info object and return an array of recipe info as strings
+// Required:
+//
+// Write a function that takes recipe info object and returns an array of recipe info as strings
 // as in the example
 
-// Ex:-
 // Input:
 // let recipeInfo = {
 //   name: "pizza",
@@ -51,19 +52,18 @@ const customerAndAge = (obj) => {
 // Note:
 // You can solve this challenge by using Object.entries
 
-// -------------------------------------------------------------------------------------------------------
-
 const getEntries = (obj) => {
   // write your code here
 };
+// -------------------------------------------------------------------------------------------------------
 
 // -------------------------------------------------------------------------------------------------------
-// Challenge 03
+// Challenge 03:
+// Optional:
 
-// Write a function named getCourseName that returns object of 2 new arrays
+// Write a function that takes an array of objects (courses) and returns object of 2 new arrays
 // first one is containing the names of all of the courses in the data set.
 // second one is containing the names of all the students
-// -------------------------------------------------------------------------------------------------------
 
 const courses = [
   {
@@ -99,12 +99,14 @@ const getInfo = (arr) => {
 
   return { coursesName, studentsName };
 };
+// -------------------------------------------------------------------------------------------------------
 
 //  ------------------------------------------------------------------------------------------------------
-// Challenge 04
+// Challenge 04:
+// Optional:
 
-// The Head manager wants to get a more organized info about some students, he wants you to find the students from the courses dataset
-// and return their info following the below syntax
+// The Head manager wants to get more organized info about some students, he wants you to find the students from the courses dataset
+// and return their info following the below structure
 //
 // Input: ['Kalé', 'Alisha','Alphonso', 'Briana']
 // Output: 
@@ -116,12 +118,10 @@ const getInfo = (arr) => {
 //   ...
 // ]
 
-//  ------------------------------------------------------------------------------------------------------
-
 const getStudents = (arr) => {
   // write your code here
-
 };
+//  ------------------------------------------------------------------------------------------------------
 
 module.exports = {
   customerAndAge,

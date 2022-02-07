@@ -17,6 +17,7 @@ describe("Challenge18-01", () => {
 describe("Challenge18-02", () => {
     test("Check-Words-Letters", () => {
         expect(wordLetters("dad", "add")).toStrictEqual(true);
+        expect(wordLetters("dad", "aadd")).toStrictEqual(false);
         expect(wordLetters("table", "label")).toStrictEqual(false);
         expect(wordLetters("cat", "rat")).toStrictEqual(false);
     });
