@@ -1,37 +1,42 @@
 "use strict";
 
-// 1) ---------------------
+// -------------------------------------------------------------------------------------------------------
+//  Challenge 1:
+//  Required:
 //
-//  using the (objLat) function; return the formatted text based on the provided object as the example:
+//  Write a function that takes an object and returns the formatted text based on the provided object as the example:
+// 
+// Input:
 //  let obj = {
-//      firstName: 'Jaber',
-//      lastName: 'Saleh',
+//      firstName: 'Ellie',
+//      lastName: 'jon',
 //      age: 67,
 //      hobby: 'Gaming and Sleeping'
 //  }
-//   ===>
-//   'my name is Jaber Saleh I am 67 YO, and I love Gaming and Sleeping.'
+//
+//  Output: "my name is Ellie Jon I am 67 YO, and I love Gaming and Sleeping."
 
 //  Note that:
-//  1- The text template is 'my name is ** ** I am ** YO, and I love **.'
+//  1- The text template is "my name is ** ** I am ** YO, and I love **."
 //  2- The first letters of the firstName and lastName should be capital letter
-
-// ------------------------
 
 const objLat = (obj) => {
     // write your code here
 };
+// -------------------------------------------------------------------------------------------------------
 
-// 2) ---------------------
+// -------------------------------------------------------------------------------------------------------
+//  Challenge 2:
+//  Required:
 //
 //  Rekey is receiving info about applicants for his startup company (as array of objects), containing first name,
 //  last name, age and technology they know.
-//  Rekey only cares about the full name and the technology if the applicant have more than one year of Experience
+//  Rekey only cares about the full name and the technology if the applicant has more than one year of Experience
 //
-//  Reformat the array of objects that you are receiving by returning a new array of objects that contain only
+//  Reformat the array of objects that you are receiving by returning a new array of objects that contains only
 //  fullName and tech if the applicant has more than one year of Experience
 
-// EX:
+// Input:
 // let cvs = [
 //     {
 //         firstName: "Jason",
@@ -59,9 +64,7 @@ const objLat = (obj) => {
 //     }
 // ]
 //
-//   ===>
-
-//
+// Output:
 // [
 //     {
 //         fullName: "Jason James",
@@ -81,16 +84,17 @@ const objLat = (obj) => {
 //  1- Full name is first name + last name
 //  2- If one of the names is null dont add it to the full name
 
-// ------------------------
 const cvFormatter = (arr) => {
-    
     // write your code here
 };
+// -------------------------------------------------------------------------------------------------------
 
-// 3) ---------------------
+// -------------------------------------------------------------------------------------------------------
+//  Challenge 3:
+//  Optional:
 //
-//  Rekey wants to get statistic about the applicants
-//  using the array of object you will be getting, return an object that has the following properties
+//  Rekey wants to get statistics about the applicants
+//  using the array of objects you will be getting, return an object that has the following properties
 //
 // let result = {
 //     python_Devs: 0,
@@ -106,20 +110,21 @@ const cvFormatter = (arr) => {
 //  Note that:
 //  1- rejectedApplicants are applications that has both the names empty or null and whoever have one year or less of Experience
 
-// ------------------------
 const applicationsStatics = (arr) => {
     // write your code here
 };
+// -------------------------------------------------------------------------------------------------------
 
-// 4) ---------------------
+// -------------------------------------------------------------------------------------------------------
+//  Challenge 4:
+//  Optional:
 //
 //  A Certain School principal wants to calculate the average score of each class in each grade in the school
 //  so he requested a programmer to solve this issue for him instead of doing it again every time
 //
 //  given the school data, calculate the average score of the students of each class in each grade
 //  then change the avg value for the class
-//  EX:
-
+//  Input:
 let data = {
     SchoolName: "David Academy",
     Capacity: 1000,
@@ -235,5 +240,6 @@ let data = {
 const classesAvg = (data) => {
     // write your code here
 };
+// -------------------------------------------------------------------------------------------------------
 
 module.exports = { objLat, cvFormatter, applicationsStatics, classesAvg };
