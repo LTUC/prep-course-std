@@ -1,16 +1,29 @@
-# Exercise 04
+# Challenge 09
 
-Create a new branch named "exercise04",
+### For today Problem Solving exercise please follow the instructions:
 
-While solving these exercises, you will run some tests to confirm your solution, please follow the steps below before Starting solving the problem:
+<p>&nbsp</p>
 
-Inside your local project:
+#### note that you will continue working on the same repository from the previous exercise  `Prep-Challenges`
 
-1. Create folder named "Challenge09"
-2. Create new files "Challenge09.js" and "Challenge09.test.js" inside "Challenge09" folder.
-    - Copy this content [content here](https://github.com/LTUC/prep-course-std/blob/master/Day09/ProblemSolving/Challenge09/Challenge09.js) into "Challenge09.js"
-	- Copy this content [content here](https://github.com/LTUC/prep-course-std/blob/master/Day09/ProblemSolving/Challenge09/Challenge09.test.js) into "Challenge09.test.js"
-3. Solve the problems inside "Challenge09.js"
-4. Go inside "Challenge09" folder after solving each problem, run this command in the terminal (to check your solution is correct):
-```npm run test Challenge09.test.js```
-5. When the all tests "passed", you can make the ``A-C-P`` 
+<p>&nbsp</p>
+
+- Create a new branch `git checkout -b exercise09`
+
+
+- To retrieve the code challenge run this command: `npm run pull-challenge <challenge-number>`
+
+   - Run:
+
+   	 ```bash
+  	 npm run pull-challenge 09
+   	 ```
+
+
+- Solve the problems.
+
+- To execute the tests run the test from the root of `Prep-Challenges` repo (your new problem solving repo):
+
+  - to run all tests: `npm test`
+  - to run specific tests: `npm test <test-number>`
+    - For example: `npm test 09`
