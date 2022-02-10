@@ -77,7 +77,7 @@ function fullName(arr) {
 // },
 // {
 // 			firstName: 'Ben',
-//      lastNAme: 'Zeller',
+//      lastName: 'Zeller',
 // 			gradsList: [20, 10, 11, 11, 2, 5, 3, 2]
 // },
 // {
@@ -87,7 +87,7 @@ function fullName(arr) {
 // },
 // {
 // 			firstName: 'Fred',
-//      lastNAme: 'Sagar',
+//      lastName: 'Sagar',
 // 			gradsList: [20, 10, 18, 11, 2, 20, 3, 10]
 // }
 // ]
@@ -102,7 +102,7 @@ function fullName(arr) {
 // },
 // {
 // 			firstName: 'Ben',
-//      lastNAme: 'Zeller',
+//      lastName: 'Zeller',
 // 			gradsList: [20,10,11,11,2,5,3,2],
 //			avg: 8
 // },
@@ -114,7 +114,7 @@ function fullName(arr) {
 // },
 // {
 // 			firstName: 'Fred',
-//      lastNAme: 'Sagar',
+//      lastName: 'Sagar',
 // 			gradsList: [20,10,18,11,2,20,3,10],
 //      avg: 11.75
 // 	}
@@ -145,7 +145,7 @@ function gradesAvg(arr) {
 // },
 // {
 // 			firstName: 'Ben',
-//          lastNAme: 'Zeller',
+//          lastName: 'Zeller',
 // 			gradsList: [20,10,11,11,2,5,3,2],
 //			avg: 8
 // },
@@ -157,7 +157,7 @@ function gradesAvg(arr) {
 // },
 // {
 // 			firstName: 'Fred',
-//          lastNAme: 'Sagar',
+//          lastName: 'Sagar',
 // 			gradsList: [20,10,18,11,2,20,3,10],
 //          avg: 11.75
 // 	}
@@ -174,7 +174,7 @@ function gradesAvg(arr) {
 // },
 // {
 // 			firstName: 'Ben',
-//      lastNAme: 'Zeller',
+//      lastName: 'Zeller',
 // 			gradsList: [20,10,11,11,2,5,3,2],
 //			avg: 8,
 //      result: 'Failed'
@@ -188,7 +188,7 @@ function gradesAvg(arr) {
 // },
 // {
 // 			firstName: 'Fred',
-//      lastNAme: 'Sagar',
+//      lastName: 'Sagar',
 // 			gradsList: [20,10,18,11,2,20,3,10],
 //      avg: 11.75,
 //      result: 'Failed'

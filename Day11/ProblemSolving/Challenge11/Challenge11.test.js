@@ -7,7 +7,7 @@ var students = [{
     },
     {
         firstName: 'Ben',
-        lastNAme: 'Zeller',
+        lastName: 'Zeller',
         gradsList: [20, 10, 11, 11, 2, 5, 3, 2]
     },
     {
@@ -17,7 +17,7 @@ var students = [{
     },
     {
         firstName: 'Fred',
-        lastNAme: 'Sagar',
+        lastName: 'Sagar',
         gradsList: [20, 10, 18, 11, 2, 20, 3, 10]
     }
 ]
@@ -63,7 +63,7 @@ describe('Challenge 11', () => {
                 },
                 {
                     firstName: 'Ben',
-                    lastNAme: 'Zeller',
+                    lastName: 'Zeller',
                     gradsList: [
                         20, 10, 11, 11,
                         2, 5, 3, 2
@@ -78,7 +78,7 @@ describe('Challenge 11', () => {
                 },
                 {
                     firstName: 'Fred',
-                    lastNAme: 'Sagar',
+                    lastName: 'Sagar',
                     gradsList: [20, 10, 18, 11, 2, 20, 3, 10],
                     avg: 11.75,
                 }
@@ -97,7 +97,7 @@ describe('Challenge 11', () => {
                 },
                 {
                     firstName: 'Ben',
-                    lastNAme: 'Zeller',
+                    lastName: 'Zeller',
                     gradsList: [20, 10, 11, 11, 2, 5, 3, 2],
                     avg: 8,
                     result: 'Failed'
@@ -111,7 +111,7 @@ describe('Challenge 11', () => {
                 },
                 {
                     firstName: 'Fred',
-                    lastNAme: 'Sagar',
+                    lastName: 'Sagar',
                     gradsList: [20, 10, 18, 11, 2, 20, 3, 10],
                     avg: 11.75,
                     result: 'Failed'
