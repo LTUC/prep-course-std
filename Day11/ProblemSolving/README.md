@@ -1,26 +1,23 @@
 # Challenge 11
 
-### For today Problem Solving exercise please follow the new instructions:
+### For today Problem Solving exercise please follow the instructions:
 
-- Create a new template using this link [template here](https://github.com/LTUC/prep-challenges/generate)
+<p>&nbsp</p>
 
-- Name the new repository `Prep-Challenges` 
+#### note that you will continue working on the same repository from the previous exercise  `Prep-Challenges`
 
-- Clone the new repository in your local machine
-
-- Go inside the repository folder `cd Prep-Challenges` 
-
-- Run this command `npm install`
+<p>&nbsp</p>
 
 - Create a new branch `git checkout -b exercise11`
 
+
 - To retrieve the code challenge run this command: `npm run pull-challenge <challenge-number>`
 
-  - For example:
+   - Run:
 
-    ```bash
-    npm run pull-challenge 11
-    ```
+   	 ```bash
+  	 npm run pull-challenge 11
+   	 ```
 
 
 - Solve the problems.
@@ -30,5 +27,3 @@
   - to run all tests: `npm test`
   - to run specific tests: `npm test <test-number>`
     - For example: `npm test 11`
-
-### Note: you will continue working on this repository in further Problem Solving Exercises 

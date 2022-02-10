@@ -1,4 +1,5 @@
 # Challenge 15
+## Hacker Rank
 
 ### For today Problem Solving exercise please follow the instructions:
 
@@ -20,17 +21,7 @@
    	 ```
 
 
-- Solve the problems.
-
-- To execute the tests run the test from the root of `Prep-Challenges` repo (your new problem solving repo):
-
-  - to run all tests: `npm test`
-  - to run specific tests: `npm test <test-number>`
-    - For example: `npm test 15`
-
-## Hacker Rank
-
-Thursdays code challenges aims to add some points to your hacker rank account
+### note: Thursdays code challenges aims to add some points to your hacker rank account
 
 please create your own account and try to solve as much as you can even if it was not an assignment, since
 a lot of employers take hacker rank profile into consideration

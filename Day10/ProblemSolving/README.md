@@ -1,6 +1,25 @@
+# Challenge 10
 ## Hacker Rank
 
-Thursdays code challenges aims to add some points to your hacker rank account
+### For today Problem Solving exercise please follow the instructions:
+
+<p>&nbsp</p>
+
+#### note that you will continue working on the same repository from the previous exercise  `Prep-Challenges`
+
+<p>&nbsp</p>
+
+- Create a new branch `git checkout -b exercise10`
+
+
+- To retrieve the code challenge run this command: `npm run pull-challenge <challenge-number>`
+
+   - Run:
+
+   	 ```bash
+  	 npm run pull-challenge 10
+   	 ```
+### note: Thursdays code challenges aims to add some points to your hacker rank account
 
 please create your own account and try to solve as much as you can even if it was not an assignment, since
 a lot of employers take hacker rank profile into consideration
