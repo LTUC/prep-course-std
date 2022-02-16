@@ -86,7 +86,7 @@ describe('Challenge 11', () => {
         )
     });
 
-    test('this function will determine the failed from the passed students', () => {
+    test.skip('this function will determine the failed from the passed students', () => {
         expect(studentsResult(gradesAvg(students))).toStrictEqual(
             [{
                     firstName: 'Adam',

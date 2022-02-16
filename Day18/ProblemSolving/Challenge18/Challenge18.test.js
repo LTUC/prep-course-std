@@ -24,7 +24,7 @@ describe("Challenge18-02", () => {
 });
 
 describe("Challenge18-03", () => {
-    test("Find-Target-Index", () => {
+    test.skip("Find-Target-Index", () => {
         expect(targetIndex([1, 3, 5, 6], 5)).toStrictEqual(2);
         expect(targetIndex([1, 3, 5, 6], 2)).toStrictEqual(1);
         expect(targetIndex([1, 3, 5, 6], 7)).toStrictEqual(4);
