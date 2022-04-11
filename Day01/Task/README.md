@@ -21,10 +21,10 @@ Today you will start setting things up by creating Github account.
 
 3. **Skim the following resource:**
    - Read this resource carefully:
-   [good-developer-mindset.](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
+   [How to Learn Things Fast Without Going Crazy](https://hackernoon.com/how-to-learn-things-fast-without-going-crazy)
     - As a second paragraph in your README.md file, write what you learned from your reading. 
    - Use different Markdown language features.
    - Do **A-C-P** (add, commit, push).
 
 ## Submission Instructions:
- 
+ - submit a link of your GitHub repo
