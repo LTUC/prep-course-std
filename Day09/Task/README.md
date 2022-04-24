@@ -42,7 +42,7 @@ Create a new js file called accounting.js to use it in this page.
 |Finance|
 |Total|Total number of employees|Total salary for all departments|Average salary for all departments|
 
-
+## making some changes, or I fixed an error
 ## Submission Instructions:
 - When your work is complete and ready for submission, push to the `localStorage` branch.
 - Create a pull request.
